@@ -1,12 +1,12 @@
 
 .box {
   min-height: 100px;
-  width: 100%;
+  width: 50%;
 }
 
 .white {
 	  background-color: #fff;
-	  min-height:25px;
+	  min-height:300px;
 }
 
 .dark_blue {
